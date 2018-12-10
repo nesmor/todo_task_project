@@ -32,7 +32,7 @@ user=admin
 passwor=V4l3nt1n4!
 
 
-Para este test, se desarrolló sobre ubuntu 18, python 3, django 2.1
+Para este test, se desarrolló sobre ubuntu 18, python 3, django 2.1, postgres 9.
 
 
 
