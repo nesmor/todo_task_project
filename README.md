@@ -6,7 +6,7 @@ Clonar el repositorio a traves del comando:
 
 #git clone https://github.com/nesmor/todo_task_project.git
 
-En el directorio database de encuentra un respaldo de la base de datos local llamada  todo_task_list
+En el directorio database de encuentra, existe un respaldo de la base de datos local llamada  todo_task_list
 
 Restaurar el backup de la base de datos realizada en postgres a traves del comando:
 
@@ -32,8 +32,7 @@ user=admin
 passwor=V4l3nt1n4!
 
 
-
-
+Para este test, se desarrolló sobre ubuntu 18, python 3, django 2.1
 
 
 
