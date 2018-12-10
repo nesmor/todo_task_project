@@ -16,7 +16,7 @@ Restaurar el backup de la base de datos realizada en postgres a traves del coman
 
 Importar el archivo de activacion con el entorno para python
 
-#source MYENV/bin/activate
+#source [path donde fue clonado el proyecto]/MYENV/bin/activate
 
 Ejecutar el comando runserver y 
 
