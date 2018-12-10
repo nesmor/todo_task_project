@@ -14,6 +14,9 @@ Restaurar el backup de la base de datos realizada en postgres a traves del coman
 
 >psql -U postgres  -h localhost -f [path donde fue clonado el proyecto]/database/db.sql
 
+Modificar la variable VIRTUAL_ENV segun corresponda. 
+VIRTUAL_ENV="[path donde fue clonado el proyecto]/todo_task_project/MYENV"
+
 Importar el archivo de activacion con el entorno para python
 
 #source [path donde fue clonado el proyecto]/MYENV/bin/activate
