@@ -15,6 +15,24 @@ La base de datos respaldada se llama todo_task_db
 
 >psql -U postgres  -h localhost -f [path donde fue clonado el proyecto]/database/db.sql
 
+Modificar el archivo setting.py según corresponda.
+
+[path donde fue clonado el proyecto]/todoListProject/todoListProject/settings.py
+
+DATABASES = {
+	'default': {
+        	'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        	'NAME': 'todo_task_list',
+        	'USER': 'postgres',
+        	'PASSWORD': 'postgres',
+        	'HOST': '127.0.0.1',
+        	'PORT': '5432',
+    }
+
+}
+
+
+
 Modificar la variable VIRTUAL_ENV segun corresponda. 
 VIRTUAL_ENV="[path donde fue clonado el proyecto]/todo_task_project/MYENV"
 
