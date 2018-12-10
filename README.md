@@ -8,7 +8,8 @@ Clonar el repositorio a traves del comando:
 
 En el directorio database de encuentra, existe un respaldo de la base de datos local llamada  todo_task_list
 
-Restaurar el backup de la base de datos realizada en postgres a traves del comando:
+Restaurar el backup de la base de datos realizada en postgres a traves del comando: 
+La base de datos respaldada se llama todo_task_db
 
 >su - postgres
 
