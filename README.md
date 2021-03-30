@@ -32,6 +32,8 @@ DATABASES = {
 }
 In developer
 
+In developer
+
 
 
 Modificar la variable VIRTUAL_ENV segun corresponda. 
