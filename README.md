@@ -30,6 +30,7 @@ DATABASES = {
     }
 
 }
+In developer
 
 
 
