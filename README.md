@@ -32,7 +32,7 @@ DATABASES = {
 }
 In developer
 
-In developer
+
 
 
 
