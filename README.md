@@ -30,7 +30,10 @@ DATABASES = {
     }
 
 }
-In developer
+
+
+
+test
 
 
 
