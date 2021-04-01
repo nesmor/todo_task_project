@@ -30,7 +30,7 @@ DATABASES = {
     }
 
 }
-
+test
 
 
 
