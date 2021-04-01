@@ -32,8 +32,6 @@ DATABASES = {
 }
 
 
-tes
-test
 
 
 
